@@ -12,6 +12,7 @@ export const HolidaysData = ({ daysData }) => {
                 <div className='text-left'>
                     <h1 className='text-xl'>{daysData.title}</h1>
                     <p>{daysData.description}</p>
+                    <h1></h1>
                 </div>
             </div>
 
